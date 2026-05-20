@@ -41,7 +41,7 @@ The backend architecture is modeled around 8 interconnected tables designed to s
 ## 🗂️ Project Repository Structure
 Your repository contains the following required operational modules:
 * 📄 GYM MANAGMENT SYSTEM.pdf: The master technical report and proposal detailing design theory and system specs.
-* 💻 GYM_MANGMENT_SYSTEM.sql: The production-ready database execution script hosting full DDL setups and DML query workflows.
+* 💻 GYM_MANAGMENT_SYSTEM.sql: The production-ready database execution script hosting full DDL setups and DML query workflows.
 * 🖼️ ERD.jpeg: The interactive visual diagram outlining primary components, entity parameters, and data links.
 * 🗺️ SCHEMA.jpeg: High-resolution visualization mapped directly inside MySQL Workbench illustrating structural table connections.
 * 📜 Acknowledgement.md: Expressing appreciation to course instructors and outlining team roles.
